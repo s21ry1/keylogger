@@ -6,7 +6,6 @@ Description:
 This document outlines a basic Python keylogger designed for educational purposes only. It demonstrates how keystrokes can be captured and logged for understanding user input or troubleshooting technical issues.
 
 Features:
-
 Records all key presses, including characters and special keys (Enter, Shift, etc.).
 Saves logs to a file named "keylog.txt" in the user's home directory.
 Stops recording when the "esc" key is pressed.
